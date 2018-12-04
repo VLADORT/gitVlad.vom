@@ -8,6 +8,10 @@ public class SimpleCalc {
 
     }
 
+    public double getSub() {
+        return this.a-this.b;
+    }
+
     public double getSum() {
         return this.a+this.b;
     }
