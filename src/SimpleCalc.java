@@ -8,7 +8,11 @@ public class SimpleCalc {
 
     }
     public double getMul() {
+<<<<<<< HEAD
         return this.a/this.b;
+=======
+        return this.a*2*this.b;
+>>>>>>> conflictTest
     }
 
     public double getSub() {
