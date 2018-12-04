@@ -8,7 +8,7 @@ public class SimpleCalc {
 
     }
     public double getMul() {
-        return this.a*this.b;
+        return this.a/this.b;
     }
 
     public double getSub() {
